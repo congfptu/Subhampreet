@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Congfptu<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm a Fresher from Viet Nam ❤</h3>
-My favourite quote "In order to be irreplaceable, one must always be differen"-Coco Chanel. In the future I hope I can work in a professional environment, can take care of my family and parents.
+My favourite quote "In order to be irreplaceable, one must always be differen"-Coco Chanel. In the future I hope I can work in a professional environment, can take good care of my family and parents.
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
