@@ -3,7 +3,8 @@
 <h1 align="center">Hi, I'm Congfptu<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from Viet Nam ❤</h3>
- In order to be irreplaceable, one must always be differen
+My favourite quote "In order to be irreplaceable, one must always be differen"-Coco Chanel. In the future I hope I can work in a professional environment, can take care of my family and parents.
+
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-VietNam-3c9)
